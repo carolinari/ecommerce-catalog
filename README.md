@@ -15,3 +15,5 @@ O projeto se trata de uma loja virtual de roupas, contendo as seções:
 
 
 HTML | CSS
+
+![catalogo-ezgif com-gif-maker](https://user-images.githubusercontent.com/85963623/187277954-d56d8d96-3817-4acd-b100-7c6593ab8abe.gif)
